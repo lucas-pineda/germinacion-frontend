@@ -30,3 +30,4 @@ protocol websockets
 
 Reinicia Mosquitto y asegúrate de que el PC donde corres `npm run dev` alcance `192.168.1.58` en la red local.
 # Solo en caso de q se pruebe en mi casa obvio, tu arregltelas como puedas samuel xd
+# mlp viviana 
